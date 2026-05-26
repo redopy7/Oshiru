@@ -1,0 +1,18 @@
+if game.PlaceId == 13772394625 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/Blade%20Ball"))()
+
+elseif game.PlaceId == 136801880565837 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/Flick"))()
+
+elseif game.PlaceId == 94101948530988 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/Uma%20Racing"))()
+
+elseif game.PlaceId == 14044547200 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/Untitled%20Tag%20Game"))()
+
+elseif game.PlaceId == 104841616983113 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/San%20Aurie"))()
+
+else
+    game.Players.LocalPlayer:Kick("Unsupported game")
+end
