@@ -13,6 +13,9 @@ elseif game.PlaceId == 14044547200 then
 elseif game.PlaceId == 104841616983113 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/San%20Aurie"))()
 
+elseif game.PlaceId == 79327754502290 or 86479448397834 then
+    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5949b69f3a14660a4366ad4394f622467447c6e666fc9a8ce4491bd172c22a03/download"))()
+
 else
     game.Players.LocalPlayer:Kick("Unsupported game")
 end
