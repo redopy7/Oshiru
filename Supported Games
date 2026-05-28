@@ -1,4 +1,4 @@
-if game.PlaceId == 13772394625 then
+if game.PlaceId == 4777817887 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/redopy7/Oshiru/refs/heads/main/Blade%20Ball"))()
 
 elseif game.PlaceId == 136801880565837 then
